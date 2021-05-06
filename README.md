@@ -28,7 +28,7 @@
 <br><br>
 <p float="right">
 <a href="https://github.com/devicons/devicon">
-icons by devicon <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" height="14" width="14">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" height="14" width="14"> Icons by devicon
 </a>
 </p>
 
