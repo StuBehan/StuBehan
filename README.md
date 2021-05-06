@@ -23,7 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/sass/sass-original.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/travis/travis-plain-wordmark.svg" height="60" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jquery/jquery-original-wordmark.svg" height="60" width="60">
 </p>
 
 <br><br>
