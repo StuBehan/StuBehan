@@ -1,5 +1,32 @@
 ### Hi there 👋
 
+## Experience with:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/ruby/ruby-original-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/rails/rails-original-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original-wordmark.svg" height="60" width="60">
+
+
+## And these tools:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/babel/babel-original.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jasmine/jasmine-plain-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jquery/jquery-original-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/sass/sass-original.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/travis/travis-plain-wordmark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jquery/jquery-original-wordmark.svg" height="60" width="60">
+
+<br><br>
+<a href="https://github.com/devicons/devicon">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" height="30" width="30">icons by devicon 
+</a>
 <!--
 **StuBehan/StuBehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
