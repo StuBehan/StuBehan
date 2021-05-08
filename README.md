@@ -1,6 +1,6 @@
 <img src="./docs/Header.png">
 
-### Hi there 👋
+## Hi there 👋
 
 ## Experience with:
 
@@ -16,7 +16,7 @@
 
 ## And these tools:
 
-<p float="left" styles="background-color:white">
+<p float="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/babel/babel-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" height="40" width="40">
@@ -28,10 +28,11 @@
 </p>
 
 <br><br>
+<p float="right">
 <a href="https://github.com/devicons/devicon">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" height="14" width="14"> Icons by devicon 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" height="14" width="14"> Icons by devicon
 </a>
-
+</p>
 
 <!--
 **StuBehan/StuBehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
