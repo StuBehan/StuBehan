@@ -2,40 +2,42 @@
 
 ## Hi there 👋
 
-I'm currently working on a Unified API for the HRIS/ATS sector built on Typescript/Nestjs backend & Ruby on Rails front end.
+I'm currently working on a Unified API across a myriad of verticals/categories built on a Typescript/Nestjs backend & Ruby on Rails/React front end.
 
 ## Experience with:
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" height="40" width "40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="50" width "50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" width="50">
 </p>
 
 ## And these tools:
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain-wordmark.svg" height="40" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" width="50">
 </p>
 
 <br><br>
 <p float="right">
 <a href="https://github.com/devicons/devicon">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" height="14" width="14"> Icons by devicon
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" height="14" width="14"> Icons by devicon
 </a>
 </p>
 
