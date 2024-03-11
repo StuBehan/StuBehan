@@ -26,7 +26,7 @@ I'm currently working on a Unified API for the HRIS/ATS sector built on Typescri
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain-wordmark.svg" height="40" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-original-wordmark.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain-wordmark.svg" height="40" width="40">
