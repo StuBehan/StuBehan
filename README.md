@@ -2,7 +2,9 @@
 
 ## Hi there 👋
 
-I'm currently working on a Unified API across a myriad of verticals/categories built on a Typescript/Nestjs backend & Ruby on Rails/React front end.
+I'm a lead software engineer at StackOne, an API and AI integrations platform, and most of my work now goes into making our API something an agent can use safely as well as a developer. That has meant owning our remote MCP platform and its OAuth, a good share of the policy engine that decides what an agent is allowed to do on someone's behalf, and the harness we use to build and test connectors with AI.
+
+I also maintain stackvox, an open-source offline text-to-speech library on PyPI, and I'm one of the main contributors to stack-nudge, a macOS app that tells you when your coding agents have finished or need you. Both are on GitHub under StackOneHQ.
 
 ## Experience with:
 
